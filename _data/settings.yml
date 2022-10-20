@@ -1,0 +1,79 @@
+---
+#-------------------------------
+# Site Settings
+title: Yarsa Tech
+logo: /images/logo.png
+description: Yarsa Tech is building awesome stuff in Pokhara.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'About'
+      url: '/'
+    # - title: 'Blog'
+    #   url: '/blog/'
+    - title: 'Jobs'
+      url: '/jobs/'
+    - title: 'Contact'
+      url: '/contact/'
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Date
+  author__bio: Feel free to drop me a message on Linkedin or send me an Email.
+  author__avatar: '/images/relai.webp'
+
+social:
+  - { icon: 'ion-logo-facebook', link: 'https://facebook.com/yarsa.tech' }
+  - { icon: 'ion-logo-instagram', link: 'https://instagram.com/yarsa.tech' }
+  # - { icon: 'ion-logo-pinterest', link: 'https://pinterest.com' }
+  - { icon: 'ion-logo-github', link: 'https://github.com/yarsatech' }
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Yarsa Tech is building awesome consumer products in Pokhara
+  # hero__description: Yarsa Tech is building awesome consumer products in Pokhara
+  hero__image: '/images/relai.webp'
+
+#-------------------------------
+# Newsletter
+mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: bingodingo
+mailchimp__input__text: Your email address...
+mailchimp__button__text: Get updates and beta test invitations
+
+#-------------------------------
+# Projects Settings
+__settings:
+  projects__title: Latest works
+  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+
+#-------------------------------
+# Blog Section
+blog__settings:
+  blog__title: Recent Posts
+  blog__description:
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: mail@yarsa.tech # Add your form_id
+  description: Get in touch with us # Add a description of your form
+
+# NOTE
+# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your GA Tracking Id
