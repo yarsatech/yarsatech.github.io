@@ -27,7 +27,7 @@ author:
   author__avatar: '/images/relai.webp'
 
 social:
-  - { icon: 'ion-logo-facebook', link: 'https://facebook.com/yarsa.tech' }
+  - { icon: 'ion-logo-facebook', link: 'https://facebook.com/yarsatechnologies' }
   - { icon: 'ion-logo-instagram', link: 'https://instagram.com/yarsa.tech' }
   # - { icon: 'ion-logo-pinterest', link: 'https://pinterest.com' }
   - { icon: 'ion-logo-github', link: 'https://github.com/yarsatech' }
