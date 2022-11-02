@@ -7,7 +7,7 @@ description: Sometimes, what you're looking for is not what you really need. So 
 
 <div style="display:flex; justify-content:space-between; align-items:baseline">
     <h1 >Consumer Product Designer</h1>
-    <p style="opacity:0.4">Expires in 30.oct.2022</p>
+    <p style="opacity:0.4">Expires in 19.nov.2022</p>
 </div>
 
 [![consumer product designer vacancy announcement](/images/consumerproductdesigner-min.jpeg)](/blog/consumer-product-designer-job-post)
