@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 permalink: /contact/
-image: '/images/wirymess.webp'
 ---
 
 ## Email
