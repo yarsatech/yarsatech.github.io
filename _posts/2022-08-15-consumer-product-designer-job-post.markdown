@@ -42,6 +42,6 @@ Please send us the following at <mail@yarsa.tech>.
 
 3.  Your CV.
 
-The interview will be held from the 7th to the 10th of Ashoj, 2079 at Yarsa Labs, Kathmandu. Candidates will receive a phone call prior to the interview.
+The interview will be held from the in the second week of December at Yarsa Labs, Kathmandu. Candidates will receive a phone call prior to the interview.
 
-We have extended our deadline for the Mechanical R&D Engineer's position till October 30, due to the festival season. Please kindly refer to our previous post for more details. As for the applicants who have applied already, they will get a response before the deadline.
+We have extended our deadline for the Mechanical R&D Engineer's position till November 21, due to the festival season. Please kindly refer to our previous post for more details. As for the applicants who have applied already, they will get a response before the deadline.
