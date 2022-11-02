@@ -30,6 +30,8 @@
 
 .logo__image {
   max-height: 50px;
+  filter: var(--image-filter);
+  transition: filter 0.4s;
 }
 
 /* Nav */
