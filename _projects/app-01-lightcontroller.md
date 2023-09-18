@@ -1,6 +1,6 @@
 ---
 title: Junkiri-Light Controller
-date: 2022-01-09 08:01:35 +0300
+date: 2022-09-16 08:01:35 +0300
 subtitle: switch extraordinaire
 image: '/images/junkiri.png'
 projecttype: app
