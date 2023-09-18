@@ -2,7 +2,7 @@
 title: AudiQR™
 date: 2022-01-09 08:01:35 +0300
 subtitle: Payment Notifier
-image: '/images/audiqr.png'
+image: '/images/audiqr-single.png'
 projecttype: app
 ---
 
