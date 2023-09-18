@@ -1,8 +1,8 @@
 ---
-title: Router UPS
+title: Nizi Power 12v
 date: 2022-01-09 08:01:35 +0300
 subtitle: uninterrupt your internet forever
-image: '/images/routerups2.webp'
+image: '/images/nizi.png'
 projecttype: app
 ---
 
