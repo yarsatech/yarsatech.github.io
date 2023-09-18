@@ -1,14 +1,13 @@
 ---
 title: AudiQR™
 date: 2022-01-09 08:01:35 +0300
-subtitle: uninterrupt your internet forever
-image: '/images/nizi.png'
+subtitle: Payment Notifier
+image: '/images/audiqr.png'
 projecttype: app
 ---
 
-To rescue the internet-wandering technophiles everywhere from the rude interruptions of reality, Yarsa Tech is working tirelessly, building an awesome, easily-installed piece of power backup hardware that lets the internet work for hours in the likely case of unforeseen power losses, ensuring that no video call loses connection, no game is lost, no interview cut short
+AudiQR™ is a result of several months of research and development in Nepal by the finest mechanical and electronic engineers. It is designed to be robust, reliable and easy to use.
 
-This project is an exploration into power-management for portable devices, and we
-plan on using what we learn to create even cooler portable devices.
+High Quality QR Payment Confirmation Solution with secure cloud dashboard, instant merchant onboarding, long-term support, customizable branding and features for an affordable price.
 
-![routerups](/images/routerups.webp)
+![routerups](/images/audiqr.png)
