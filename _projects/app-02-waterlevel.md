@@ -2,7 +2,7 @@
 title: Automatic Water Level Controller
 date: 2022-01-09 08:01:35 +0300
 subtitle:
-image: '/images/audiqr.png'
+image: '/images/watercontroller.png'
 projecttype: app
 ---
 
