@@ -12,4 +12,4 @@ High Quality QR Payment Confirmation Solution with secure cloud dashboard, insta
 
 ![AudiQR™](/images/audiqr.png)
 
-[Read More ...](https://www.audiqr.com/)
+<a href="https://www.audiqr.com/" target="_blank">Read More ...</a>
