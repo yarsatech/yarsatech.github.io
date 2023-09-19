@@ -10,6 +10,6 @@ AudiQR™ is a result of several months of research and development in Nepal by 
 
 High Quality QR Payment Confirmation Solution with secure cloud dashboard, instant merchant onboarding, long-term support, customizable branding and features for an affordable price.
 
-![AudiQR™](/images/AudiQr.mp4)
+![AudiQR™](/images/audiqr.png)
 
 <a href="https://www.audiqr.com/" target="_blank">Read More ...</a>
