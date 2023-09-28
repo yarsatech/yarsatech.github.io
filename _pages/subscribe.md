@@ -4,9 +4,17 @@ title: Stay informed!
 permalink: /subscribe/
 description: A lot of exciting things are happening here at Yarsa Tech. Feel free to leave behind your email if you'd like to keep posted.
 ---
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0;url=https://shop.yarsa.tech/">
+</head>
+<body>
+<!-- Your page content goes here -->
+</body>
+</html>
 <!-- ![image of router ups by yarsa tech](/images/toggle.webp) -->
-
+<!--
 <style>
 
 .form>input{
@@ -36,3 +44,4 @@ description: A lot of exciting things are happening here at Yarsa Tech. Feel fre
 </form>
 
 </div>
+-->
