@@ -18,8 +18,8 @@ menu__settings:
       url: '/jobs/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Subscribe'
-      url: '/subscribe/'
+    - title: 'Shop'
+      url: 'https://shop.yarsa.tech/'
 
 #-------------------------------
 # Author Settings
