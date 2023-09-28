@@ -1,4 +1,4 @@
----
+<!---
 layout: page
 title: Stay informed!
 permalink: /subscribe/
@@ -7,6 +7,7 @@ description: A lot of exciting things are happening here at Yarsa Tech. Feel fre
 
 <!-- ![image of router ups by yarsa tech](/images/toggle.webp) -->
 
+<!-- 
 <style>
 
 .form>input{
@@ -36,3 +37,4 @@ description: A lot of exciting things are happening here at Yarsa Tech. Feel fre
 </form>
 
 </div>
+-->

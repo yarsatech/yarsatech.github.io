@@ -1,4 +1,4 @@
----
+<!---
 layout: page
 title: You are subscribed!
 permalink: /youaresubscribed/
