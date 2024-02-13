@@ -6,9 +6,7 @@ image: '/images/nizi.png'
 projecttype: app
 ---
 
-To rescue the internet-wandering technophiles everywhere from the rude interruptions of reality, Yarsa Tech is working tirelessly, building an awesome, easily-installed piece of power backup hardware that lets the internet work for hours in the likely case of unforeseen power losses, ensuring that no video call loses connection, no game is lost, no interview cut short
+NIZI Power 12V is Nepal's first power backup solution characterized by simplicity and minimalist design. With an emphasis on user-friendliness and portability, it is a game-changer for areas in Nepal plagued by unreliable power supply and frequent outages.
 
-This project is an exploration into power-management for portable devices, and we
-plan on using what we learn to create even cooler portable devices.
-
-![routerups](/images/routerups.webp)
+With a local research, design, and engineering infrastructure, NIZI Power 12V proudly carries the "Made in Nepal" tag, embodying the essence of durability and resilience. This initiative marks the debut of Yarsa Tech, which aims to promote Nepali products while discouraging the use of unauthorized, expensive foreign alternatives.
+<!-- ![routerups](/images/routerups.webp) -->
